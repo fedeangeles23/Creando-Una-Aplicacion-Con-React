@@ -1,7 +1,8 @@
 {
-  "name": "my-app",
+  "name": "tp27-creando-una-aplicacion-con-react",
   "version": "0.1.0",
   "private": true,
+  "author": "Fede Angeles",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
